@@ -56,7 +56,7 @@ Disfruta del juego con tus amigos o compañeros.
 
 Ejemplo de Sorteo: 
 
-![Amigo Secreto](Alura_challenge_amigo_secreto/Alura_challenge_amigo_secreto/assets/sorteo_app_as.png)
+![Amigo Secreto](Alura_challenge_amigo_secreto/assets/sorteo_app_as.png)
 
 -----------------------------------------------------------------
 Estructura de Archivos
